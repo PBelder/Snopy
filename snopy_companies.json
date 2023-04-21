@@ -1,0 +1,3021 @@
+[
+    {
+        "name": "GE HealthCare",
+        "symbol": "GEHC",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1932393
+    },
+    {
+        "name": "Constellation Energy",
+        "symbol": "CEG",
+        "website": "/wiki/Baltimore,_Maryland",
+        "market_cap": 1868275
+    },
+    {
+        "name": "APA Corporation",
+        "symbol": "APA",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1841666
+    },
+    {
+        "name": "Organon & Co.",
+        "symbol": "OGN",
+        "website": "/wiki/Jersey_City,_New_Jersey",
+        "market_cap": 1821825
+    },
+    {
+        "name": "Viatris",
+        "symbol": "VTRS",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 1792044
+    },
+    {
+        "name": "Carrier Global",
+        "symbol": "CARR",
+        "website": "/wiki/Palm_Beach_Gardens,_Florida",
+        "market_cap": 1783180
+    },
+    {
+        "name": "Otis Worldwide",
+        "symbol": "OTIS",
+        "website": "/wiki/Farmington,_Connecticut",
+        "market_cap": 1781335
+    },
+    {
+        "name": "Steris",
+        "symbol": "STE",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1757898
+    },
+    {
+        "name": "Corteva",
+        "symbol": "CTVA",
+        "website": "/wiki/Indianapolis,_Indiana",
+        "market_cap": 1755672
+    },
+    {
+        "name": "Fox Corporation (Class A)",
+        "symbol": "FOXA",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1754301
+    },
+    {
+        "name": "Fox Corporation (Class B)",
+        "symbol": "FOX",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1754301
+    },
+    {
+        "name": "Dow Inc.",
+        "symbol": "DOW",
+        "website": "/wiki/Midland,_Michigan",
+        "market_cap": 1751788
+    },
+    {
+        "name": "Amcor",
+        "symbol": "AMCR",
+        "website": "/wiki/Warmley",
+        "market_cap": 1748790
+    },
+    {
+        "name": "Disney",
+        "symbol": "DIS",
+        "website": "/wiki/Burbank,_California",
+        "market_cap": 1744489
+    },
+    {
+        "name": "Cigna",
+        "symbol": "CI",
+        "website": "/wiki/Bloomfield,_Connecticut",
+        "market_cap": 1739940
+    },
+    {
+        "name": "WestRock",
+        "symbol": "WRK",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 1732845
+    },
+    {
+        "name": "Broadcom Inc.",
+        "symbol": "AVGO",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 1730168
+    },
+    {
+        "name": "Ceridian",
+        "symbol": "CDAY",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 1725057
+    },
+    {
+        "name": "Evergy",
+        "symbol": "EVRG",
+        "website": "/wiki/Kansas_City,_Missouri",
+        "market_cap": 1711269
+    },
+    {
+        "name": "Linde plc",
+        "symbol": "LIN",
+        "website": "/wiki/Guildford",
+        "market_cap": 1707925
+    },
+    {
+        "name": "Vici Properties",
+        "symbol": "VICI",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1705696
+    },
+    {
+        "name": "Baker Hughes",
+        "symbol": "BKR",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1701605
+    },
+    {
+        "name": "Ingersoll Rand",
+        "symbol": "IR",
+        "website": "/wiki/Davidson,_North_Carolina",
+        "market_cap": 1699150
+    },
+    {
+        "name": "DXC Technology",
+        "symbol": "DXC",
+        "website": "/wiki/Tysons_Corner,_Virginia",
+        "market_cap": 1688568
+    },
+    {
+        "name": "Invitation Homes",
+        "symbol": "INVH",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 1687229
+    },
+    {
+        "name": "Moderna",
+        "symbol": "MRNA",
+        "website": "/wiki/Cambridge,_Massachusetts",
+        "market_cap": 1682852
+    },
+    {
+        "name": "Lamb Weston",
+        "symbol": "LW",
+        "website": "/wiki/Eagle,_Idaho",
+        "market_cap": 1679273
+    },
+    {
+        "name": "DuPont",
+        "symbol": "DD",
+        "website": "/wiki/Wilmington,_Delaware",
+        "market_cap": 1666700
+    },
+    {
+        "name": "Fortive",
+        "symbol": "FTV",
+        "website": "/wiki/Everett,_Washington",
+        "market_cap": 1659166
+    },
+    {
+        "name": "Alphabet Inc. (Class A)",
+        "symbol": "GOOGL",
+        "website": "/wiki/Mountain_View,_California",
+        "market_cap": 1652044
+    },
+    {
+        "name": "Alphabet Inc. (Class C)",
+        "symbol": "GOOG",
+        "website": "/wiki/Mountain_View,_California",
+        "market_cap": 1652044
+    },
+    {
+        "name": "Hewlett Packard Enterprise",
+        "symbol": "HPE",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1645590
+    },
+    {
+        "name": "Kraft Heinz",
+        "symbol": "KHC",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1637459
+    },
+    {
+        "name": "PayPal",
+        "symbol": "PYPL",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 1633917
+    },
+    {
+        "name": "Walgreens Boots Alliance",
+        "symbol": "WBA",
+        "website": "/wiki/Deerfield,_Illinois",
+        "market_cap": 1618921
+    },
+    {
+        "name": "Medtronic",
+        "symbol": "MDT",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1613103
+    },
+    {
+        "name": "Qorvo",
+        "symbol": "QRVO",
+        "website": "/wiki/Greensboro,_North_Carolina",
+        "market_cap": 1604778
+    },
+    {
+        "name": "Synchrony Financial",
+        "symbol": "SYF",
+        "website": "/wiki/Stamford,_Connecticut",
+        "market_cap": 1601712
+    },
+    {
+        "name": "Keysight",
+        "symbol": "KEYS",
+        "website": "/wiki/Santa_Rosa,_California",
+        "market_cap": 1601046
+    },
+    {
+        "name": "Catalent",
+        "symbol": "CTLT",
+        "website": "/wiki/Somerset,_New_Jersey",
+        "market_cap": 1596783
+    },
+    {
+        "name": "Arista Networks",
+        "symbol": "ANET",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 1596532
+    },
+    {
+        "name": "Paycom",
+        "symbol": "PAYC",
+        "website": "/wiki/Oklahoma_City,_Oklahoma",
+        "market_cap": 1590955
+    },
+    {
+        "name": "Caesars Entertainment",
+        "symbol": "CZR",
+        "website": "/wiki/Reno,_Nevada",
+        "market_cap": 1590895
+    },
+    {
+        "name": "Hilton Worldwide",
+        "symbol": "HLT",
+        "website": "/wiki/Tysons_Corner,_Virginia",
+        "market_cap": 1585689
+    },
+    {
+        "name": "Allegion",
+        "symbol": "ALLE",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1579241
+    },
+    {
+        "name": "Intercontinental Exchange",
+        "symbol": "ICE",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 1571949
+    },
+    {
+        "name": "News Corp (Class A)",
+        "symbol": "NWSA",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1564708
+    },
+    {
+        "name": "News Corp (Class B)",
+        "symbol": "NWS",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1564708
+    },
+    {
+        "name": "Zoetis",
+        "symbol": "ZTS",
+        "website": "/wiki/Parsippany,_New_Jersey",
+        "market_cap": 1555280
+    },
+    {
+        "name": "Eaton Corporation",
+        "symbol": "ETN",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1551182
+    },
+    {
+        "name": "AbbVie",
+        "symbol": "ABBV",
+        "website": "/wiki/North_Chicago,_Illinois",
+        "market_cap": 1551152
+    },
+    {
+        "name": "Diamondback Energy",
+        "symbol": "FANG",
+        "website": "/wiki/Midland,_Texas",
+        "market_cap": 1539838
+    },
+    {
+        "name": "Phillips 66",
+        "symbol": "PSX",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1534701
+    },
+    {
+        "name": "Xylem Inc.",
+        "symbol": "XYL",
+        "website": "/wiki/White_Plains,_New_York",
+        "market_cap": 1524472
+    },
+    {
+        "name": "Aptiv",
+        "symbol": "APTV",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1521332
+    },
+    {
+        "name": "Norwegian Cruise Line Holdings",
+        "symbol": "NCLH",
+        "website": "/wiki/Miami,_Florida",
+        "market_cap": 1513761
+    },
+    {
+        "name": "Marathon Petroleum",
+        "symbol": "MPC",
+        "website": "/wiki/Findlay,_Ohio",
+        "market_cap": 1510295
+    },
+    {
+        "name": "Kinder Morgan",
+        "symbol": "KMI",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1506307
+    },
+    {
+        "name": "Huntington Ingalls Industries",
+        "symbol": "HII",
+        "website": "/wiki/Newport_News,_Virginia",
+        "market_cap": 1501585
+    },
+    {
+        "name": "LyondellBasell",
+        "symbol": "LYB",
+        "website": "/wiki/Rotterdam,_Netherlands",
+        "market_cap": 1489393
+    },
+    {
+        "name": "IQVIA",
+        "symbol": "IQV",
+        "website": "/wiki/Durham,_North_Carolina",
+        "market_cap": 1478242
+    },
+    {
+        "name": "Generac",
+        "symbol": "GNRC",
+        "website": "/wiki/Waukesha,_Wisconsin",
+        "market_cap": 1474735
+    },
+    {
+        "name": "General Motors",
+        "symbol": "GM",
+        "website": "/wiki/Detroit,_Michigan",
+        "market_cap": 1467858
+    },
+    {
+        "name": "Accenture",
+        "symbol": "ACN",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1467373
+    },
+    {
+        "name": "Trane Technologies",
+        "symbol": "TT",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1466258
+    },
+    {
+        "name": "Enphase",
+        "symbol": "ENPH",
+        "website": "/wiki/Fremont,_California",
+        "market_cap": 1463101
+    },
+    {
+        "name": "Verisk",
+        "symbol": "VRSK",
+        "website": "/wiki/Jersey_City,_New_Jersey",
+        "market_cap": 1442145
+    },
+    {
+        "name": "Warner Bros. Discovery",
+        "symbol": "WBD",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1437107
+    },
+    {
+        "name": "SolarEdge",
+        "symbol": "SEDG",
+        "website": "/wiki/Herzliya,_Israel",
+        "market_cap": 1419612
+    },
+    {
+        "name": "Keurig Dr Pepper",
+        "symbol": "KDP",
+        "website": "/wiki/Burlington,_Massachusetts",
+        "market_cap": 1418135
+    },
+    {
+        "name": "NXP Semiconductors",
+        "symbol": "NXPI",
+        "website": "/wiki/Eindhoven,_Netherlands",
+        "market_cap": 1413447
+    },
+    {
+        "name": "Philip Morris International",
+        "symbol": "PM",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1413329
+    },
+    {
+        "name": "American Water Works",
+        "symbol": "AWK",
+        "website": "/wiki/Camden,_New_Jersey",
+        "market_cap": 1410636
+    },
+    {
+        "name": "MSCI",
+        "symbol": "MSCI",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1408198
+    },
+    {
+        "name": "Ulta Beauty",
+        "symbol": "ULTA",
+        "website": "/wiki/Bolingbrook,_Illinois",
+        "market_cap": 1403568
+    },
+    {
+        "name": "Visa Inc.",
+        "symbol": "V",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 1403161
+    },
+    {
+        "name": "CDW",
+        "symbol": "CDW",
+        "website": "/wiki/Lincolnshire,_Illinois",
+        "market_cap": 1402057
+    },
+    {
+        "name": "Vulcan Materials Company",
+        "symbol": "VMC",
+        "website": "/wiki/Birmingham,_Alabama",
+        "market_cap": 1396009
+    },
+    {
+        "name": "Discover Financial",
+        "symbol": "DFS",
+        "website": "/wiki/Riverwoods,_Illinois",
+        "market_cap": 1393612
+    },
+    {
+        "name": "Public Storage",
+        "symbol": "PSA",
+        "website": "/wiki/Glendale,_California",
+        "market_cap": 1393311
+    },
+    {
+        "name": "BNY Mellon",
+        "symbol": "BK",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1390777
+    },
+    {
+        "name": "Targa Resources",
+        "symbol": "TRGP",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1389170
+    },
+    {
+        "name": "TE Connectivity",
+        "symbol": "TEL",
+        "website": "/wiki/Schaffhausen",
+        "market_cap": 1385157
+    },
+    {
+        "name": "Broadridge Financial Solutions",
+        "symbol": "BR",
+        "website": "/wiki/Lake_Success,_New_York",
+        "market_cap": 1383312
+    },
+    {
+        "name": "Cboe Global Markets",
+        "symbol": "CBOE",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1374310
+    },
+    {
+        "name": "ServiceNow",
+        "symbol": "NOW",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 1373715
+    },
+    {
+        "name": "Etsy",
+        "symbol": "ETSY",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1370637
+    },
+    {
+        "name": "BlackRock",
+        "symbol": "BLK",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1364742
+    },
+    {
+        "name": "EPAM Systems",
+        "symbol": "EPAM",
+        "website": "/wiki/Newtown,_Bucks_County,_Pennsylvania",
+        "market_cap": 1352010
+    },
+    {
+        "name": "Oracle Corporation",
+        "symbol": "ORCL",
+        "website": "/wiki/Austin,_Texas",
+        "market_cap": 1341439
+    },
+    {
+        "name": "Leidos",
+        "symbol": "LDOS",
+        "website": "/wiki/Reston,_Virginia",
+        "market_cap": 1336920
+    },
+    {
+        "name": "Live Nation Entertainment",
+        "symbol": "LYV",
+        "website": "/wiki/Beverly_Hills,_California",
+        "market_cap": 1335258
+    },
+    {
+        "name": "Meta Platforms",
+        "symbol": "META",
+        "website": "/wiki/Menlo_Park,_California",
+        "market_cap": 1326801
+    },
+    {
+        "name": "Duke Energy",
+        "symbol": "DUK",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 1326160
+    },
+    {
+        "name": "Expedia Group",
+        "symbol": "EXPE",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 1324424
+    },
+    {
+        "name": "CF Industries",
+        "symbol": "CF",
+        "website": "/wiki/Deerfield,_Illinois",
+        "market_cap": 1324404
+    },
+    {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "website": "/wiki/Austin,_Texas",
+        "market_cap": 1318605
+    },
+    {
+        "name": "Celanese",
+        "symbol": "CE",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 1306830
+    },
+    {
+        "name": "Las Vegas Sands",
+        "symbol": "LVS",
+        "website": "/wiki/Las_Vegas,_Nevada",
+        "market_cap": 1300514
+    },
+    {
+        "name": "Digital Realty",
+        "symbol": "DLR",
+        "website": "/wiki/Austin,_Texas",
+        "market_cap": 1297996
+    },
+    {
+        "name": "Extra Space Storage",
+        "symbol": "EXR",
+        "website": "/wiki/Salt_Lake_City,_Utah",
+        "market_cap": 1289490
+    },
+    {
+        "name": "Domino's",
+        "symbol": "DPZ",
+        "website": "/wiki/Ann_Arbor,_Michigan",
+        "market_cap": 1286681
+    },
+    {
+        "name": "Mosaic Company (The)",
+        "symbol": "MOS",
+        "website": "/wiki/Tampa,_Florida",
+        "market_cap": 1285785
+    },
+    {
+        "name": "T-Mobile US",
+        "symbol": "TMUS",
+        "website": "/wiki/Bellevue,_Washington",
+        "market_cap": 1283699
+    },
+    {
+        "name": "Regions Financial Corporation",
+        "symbol": "RF",
+        "website": "/wiki/Birmingham,_Alabama",
+        "market_cap": 1281761
+    },
+    {
+        "name": "Monolithic Power Systems",
+        "symbol": "MPWR",
+        "website": "/wiki/Kirkland,_Washington",
+        "market_cap": 1280452
+    },
+    {
+        "name": "MarketAxess",
+        "symbol": "MKTX",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1278021
+    },
+    {
+        "name": "First Solar",
+        "symbol": "FSLR",
+        "website": "/wiki/Tempe,_Arizona",
+        "market_cap": 1274494
+    },
+    {
+        "name": "Assurant",
+        "symbol": "AIZ",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1267238
+    },
+    {
+        "name": "Fortinet",
+        "symbol": "FTNT",
+        "website": "/wiki/Sunnyvale,_California",
+        "market_cap": 1262039
+    },
+    {
+        "name": "TransDigm Group",
+        "symbol": "TDG",
+        "website": "/wiki/Cleveland,_Ohio",
+        "market_cap": 1260221
+    },
+    {
+        "name": "Molina Healthcare",
+        "symbol": "MOH",
+        "website": "/wiki/Long_Beach,_California",
+        "market_cap": 1179929
+    },
+    {
+        "name": "Fleetcor",
+        "symbol": "FLT",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 1175454
+    },
+    {
+        "name": "Wynn Resorts",
+        "symbol": "WYNN",
+        "website": "/wiki/Paradise,_Nevada",
+        "market_cap": 1174922
+    },
+    {
+        "name": "CarMax",
+        "symbol": "KMX",
+        "website": "/wiki/Richmond,_Virginia",
+        "market_cap": 1170010
+    },
+    {
+        "name": "Comcast",
+        "symbol": "CMCSA",
+        "website": "/wiki/Philadelphia,_Pennsylvania",
+        "market_cap": 1166691
+    },
+    {
+        "name": "Newmont",
+        "symbol": "NEM",
+        "website": "/wiki/Denver,_Colorado",
+        "market_cap": 1164727
+    },
+    {
+        "name": "ConocoPhillips",
+        "symbol": "COP",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1163165
+    },
+    {
+        "name": "Advance Auto Parts",
+        "symbol": "AAP",
+        "website": "/wiki/Raleigh,_North_Carolina",
+        "market_cap": 1158449
+    },
+    {
+        "name": "CME Group",
+        "symbol": "CME",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1156375
+    },
+    {
+        "name": "Elevance Health",
+        "symbol": "ELV",
+        "website": "/wiki/Indianapolis,_Indiana",
+        "market_cap": 1156039
+    },
+    {
+        "name": "Insulet",
+        "symbol": "PODD",
+        "website": "/wiki/Acton,_Massachusetts",
+        "market_cap": 1145197
+    },
+    {
+        "name": "Bunge Limited",
+        "symbol": "BG",
+        "website": "/wiki/Chesterfield,_Missouri",
+        "market_cap": 1144519
+    },
+    {
+        "name": "Mastercard",
+        "symbol": "MA",
+        "website": "/wiki/Harrison,_New_York",
+        "market_cap": 1141391
+    },
+    {
+        "name": "AmerisourceBergen",
+        "symbol": "ABC",
+        "website": "/wiki/Conshohocken,_Pennsylvania",
+        "market_cap": 1140859
+    },
+    {
+        "name": "Willis Towers Watson",
+        "symbol": "WTW",
+        "website": "/wiki/London",
+        "market_cap": 1140536
+    },
+    {
+        "name": "CBRE Group",
+        "symbol": "CBRE",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 1138118
+    },
+    {
+        "name": "Seagate Technology",
+        "symbol": "STX",
+        "website": "/wiki/Dublin,_Ireland",
+        "market_cap": 1137789
+    },
+    {
+        "name": "Prudential Financial",
+        "symbol": "PRU",
+        "website": "/wiki/Newark,_New_Jersey",
+        "market_cap": 1137774
+    },
+    {
+        "name": "FIS",
+        "symbol": "FIS",
+        "website": "/wiki/Jacksonville,_Florida",
+        "market_cap": 1136893
+    },
+    {
+        "name": "Zimmer Biomet",
+        "symbol": "ZBH",
+        "website": "/wiki/Warsaw,_Indiana",
+        "market_cap": 1136869
+    },
+    {
+        "name": "Northrop Grumman",
+        "symbol": "NOC",
+        "website": "/wiki/West_Falls_Church,_Virginia",
+        "market_cap": 1133421
+    },
+    {
+        "name": "First Republic Bank",
+        "symbol": "FRC",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 1132979
+    },
+    {
+        "name": "CenterPoint Energy",
+        "symbol": "CNP",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1130310
+    },
+    {
+        "name": "Principal Financial Group",
+        "symbol": "PFG",
+        "website": "/wiki/Des_Moines,_Iowa",
+        "market_cap": 1126328
+    },
+    {
+        "name": "Global Payments",
+        "symbol": "GPN",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 1123360
+    },
+    {
+        "name": "Garmin",
+        "symbol": "GRMN",
+        "website": "/wiki/Schaffhausen,_Switzerland",
+        "market_cap": 1121788
+    },
+    {
+        "name": "Nasdaq, Inc.",
+        "symbol": "NDAQ",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1120193
+    },
+    {
+        "name": "Tapestry, Inc.",
+        "symbol": "TPR",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1116132
+    },
+    {
+        "name": "T. Rowe Price",
+        "symbol": "TROW",
+        "website": "/wiki/Baltimore,_Maryland",
+        "market_cap": 1113169
+    },
+    {
+        "name": "NiSource",
+        "symbol": "NI",
+        "website": "/wiki/Merrillville,_Indiana",
+        "market_cap": 1111711
+    },
+    {
+        "name": "Illumina",
+        "symbol": "ILMN",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 1110803
+    },
+    {
+        "name": "Exelon",
+        "symbol": "EXC",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1109357
+    },
+    {
+        "name": "Salesforce",
+        "symbol": "CRM",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 1108524
+    },
+    {
+        "name": "Mondelez International",
+        "symbol": "MDLZ",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1103982
+    },
+    {
+        "name": "Equinix",
+        "symbol": "EQIX",
+        "website": "/wiki/Redwood_City,_California",
+        "market_cap": 1101239
+    },
+    {
+        "name": "Charles River Laboratories",
+        "symbol": "CRL",
+        "website": "/wiki/Wilmington,_Massachusetts",
+        "market_cap": 1100682
+    },
+    {
+        "name": "Edwards Lifesciences",
+        "symbol": "EW",
+        "website": "/wiki/Irvine,_California",
+        "market_cap": 1099800
+    },
+    {
+        "name": "MetLife",
+        "symbol": "MET",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1099219
+    },
+    {
+        "name": "ON Semiconductor",
+        "symbol": "ON",
+        "website": "/wiki/Phoenix,_Arizona",
+        "market_cap": 1097864
+    },
+    {
+        "name": "Align Technology",
+        "symbol": "ALGN",
+        "website": "/wiki/Tempe,_Arizona",
+        "market_cap": 1097149
+    },
+    {
+        "name": "Everest Re",
+        "symbol": "RE",
+        "website": "/wiki/Hamilton,_Bermuda",
+        "market_cap": 1095073
+    },
+    {
+        "name": "Teledyne Technologies",
+        "symbol": "TDY",
+        "website": "/wiki/Thousand_Oaks,_California",
+        "market_cap": 1094285
+    },
+    {
+        "name": "Dexcom",
+        "symbol": "DXCM",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 1093557
+    },
+    {
+        "name": "Charter Communications",
+        "symbol": "CHTR",
+        "website": "/wiki/Stamford,_Connecticut",
+        "market_cap": 1091667
+    },
+    {
+        "name": "Agilent Technologies",
+        "symbol": "A",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 1090872
+    },
+    {
+        "name": "United Parcel Service",
+        "symbol": "UPS",
+        "website": "/wiki/Sandy_Springs,_Georgia",
+        "market_cap": 1090727
+    },
+    {
+        "name": "Devon Energy",
+        "symbol": "DVN",
+        "website": "/wiki/Oklahoma_City,_Oklahoma",
+        "market_cap": 1090012
+    },
+    {
+        "name": "Akamai",
+        "symbol": "AKAM",
+        "website": "/wiki/Cambridge,_Massachusetts",
+        "market_cap": 1086222
+    },
+    {
+        "name": "Booking Holdings",
+        "symbol": "BKNG",
+        "website": "/wiki/Norwalk,_Connecticut",
+        "market_cap": 1075531
+    },
+    {
+        "name": "Centene Corporation",
+        "symbol": "CNC",
+        "website": "/wiki/St._Louis,_Missouri",
+        "market_cap": 1071739
+    },
+    {
+        "name": "Host Hotels & Resorts",
+        "symbol": "HST",
+        "website": "/wiki/Bethesda,_Maryland",
+        "market_cap": 1070750
+    },
+    {
+        "name": "Berkshire Hathaway",
+        "symbol": "BRK.B",
+        "website": "/wiki/Omaha,_Nebraska",
+        "market_cap": 1067983
+    },
+    {
+        "name": "United Rentals",
+        "symbol": "URI",
+        "website": "/wiki/Stamford,_Connecticut",
+        "market_cap": 1067701
+    },
+    {
+        "name": "LKQ Corporation",
+        "symbol": "LKQ",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 1065696
+    },
+    {
+        "name": "Netflix",
+        "symbol": "NFLX",
+        "website": "/wiki/Los_Gatos,_California",
+        "market_cap": 1065280
+    },
+    {
+        "name": "eBay",
+        "symbol": "EBAY",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 1065088
+    },
+    {
+        "name": "Simon Property Group",
+        "symbol": "SPG",
+        "website": "/wiki/Indianapolis,_Indiana",
+        "market_cap": 1063761
+    },
+    {
+        "name": "Republic Services",
+        "symbol": "RSG",
+        "website": "/wiki/Phoenix,_Arizona",
+        "market_cap": 1060391
+    },
+    {
+        "name": "Moody's Corporation",
+        "symbol": "MCO",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1059556
+    },
+    {
+        "name": "Cognizant",
+        "symbol": "CTSH",
+        "website": "/wiki/Teaneck,_New_Jersey",
+        "market_cap": 1058290
+    },
+    {
+        "name": "Chipotle Mexican Grill",
+        "symbol": "CMG",
+        "website": "/wiki/Newport_Beach,_California",
+        "market_cap": 1058090
+    },
+    {
+        "name": "CoStar Group",
+        "symbol": "CSGP",
+        "website": "/wiki/Washington,_D.C.",
+        "market_cap": 1057352
+    },
+    {
+        "name": "American Tower",
+        "symbol": "AMT",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 1053507
+    },
+    {
+        "name": "Crown Castle",
+        "symbol": "CCI",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1051470
+    },
+    {
+        "name": "Quanta Services",
+        "symbol": "PWR",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1050915
+    },
+    {
+        "name": "FedEx",
+        "symbol": "FDX",
+        "website": "/wiki/Memphis,_Tennessee",
+        "market_cap": 1048911
+    },
+    {
+        "name": "F5, Inc.",
+        "symbol": "FFIV",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 1048695
+    },
+    {
+        "name": "Marriott International",
+        "symbol": "MAR",
+        "website": "/wiki/Bethesda,_Maryland",
+        "market_cap": 1048286
+    },
+    {
+        "name": "Consolidated Edison",
+        "symbol": "ED",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1047862
+    },
+    {
+        "name": "Nvidia",
+        "symbol": "NVDA",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 1045810
+    },
+    {
+        "name": "Prologis",
+        "symbol": "PLD",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 1045609
+    },
+    {
+        "name": "Juniper Networks",
+        "symbol": "JNPR",
+        "website": "/wiki/Sunnyvale,_California",
+        "market_cap": 1043604
+    },
+    {
+        "name": "C.H. Robinson",
+        "symbol": "CHRW",
+        "website": "/wiki/Eden_Prairie,_Minnesota",
+        "market_cap": 1043277
+    },
+    {
+        "name": "Yum! Brands",
+        "symbol": "YUM",
+        "website": "/wiki/Louisville,_Kentucky",
+        "market_cap": 1041061
+    },
+    {
+        "name": "ONEOK",
+        "symbol": "OKE",
+        "website": "/wiki/Tulsa,_Oklahoma",
+        "market_cap": 1039684
+    },
+    {
+        "name": "Pioneer Natural Resources",
+        "symbol": "PXD",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 1038357
+    },
+    {
+        "name": "Ametek",
+        "symbol": "AME",
+        "website": "/wiki/Berwyn,_Pennsylvania",
+        "market_cap": 1037868
+    },
+    {
+        "name": "Mettler Toledo",
+        "symbol": "MTD",
+        "website": "/wiki/Columbus,_Ohio",
+        "market_cap": 1037646
+    },
+    {
+        "name": "Boston Properties",
+        "symbol": "BXP",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 1037540
+    },
+    {
+        "name": "Ralph Lauren Corporation",
+        "symbol": "RL",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1037038
+    },
+    {
+        "name": "Alexandria Real Estate Equities",
+        "symbol": "ARE",
+        "website": "/wiki/Pasadena,_California",
+        "market_cap": 1035443
+    },
+    {
+        "name": "Intuitive Surgical",
+        "symbol": "ISRG",
+        "website": "/wiki/Sunnyvale,_California",
+        "market_cap": 1035267
+    },
+    {
+        "name": "Valero Energy",
+        "symbol": "VLO",
+        "website": "/wiki/San_Antonio,_Texas",
+        "market_cap": 1035002
+    },
+    {
+        "name": "SBA Communications",
+        "symbol": "SBAC",
+        "website": "/wiki/Boca_Raton,_Florida",
+        "market_cap": 1034054
+    },
+    {
+        "name": "Sempra Energy",
+        "symbol": "SRE",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 1032208
+    },
+    {
+        "name": "FirstEnergy",
+        "symbol": "FE",
+        "website": "/wiki/Akron,_Ohio",
+        "market_cap": 1031296
+    },
+    {
+        "name": "Rockwell Automation",
+        "symbol": "ROK",
+        "website": "/wiki/Milwaukee,_Wisconsin",
+        "market_cap": 1024478
+    },
+    {
+        "name": "Steel Dynamics",
+        "symbol": "STLD",
+        "website": "/wiki/Fort_Wayne,_Indiana",
+        "market_cap": 1022671
+    },
+    {
+        "name": "Quest Diagnostics",
+        "symbol": "DGX",
+        "website": "/wiki/Secaucus,_New_Jersey",
+        "market_cap": 1022079
+    },
+    {
+        "name": "Iron Mountain",
+        "symbol": "IRM",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 1020569
+    },
+    {
+        "name": "Amazon",
+        "symbol": "AMZN",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 1018724
+    },
+    {
+        "name": "Verisign",
+        "symbol": "VRSN",
+        "website": "/wiki/Dulles,_Virginia",
+        "market_cap": 1014473
+    },
+    {
+        "name": "NRG Energy",
+        "symbol": "NRG",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 1013871
+    },
+    {
+        "name": "Ansys",
+        "symbol": "ANSS",
+        "website": "/wiki/Canonsburg,_Pennsylvania",
+        "market_cap": 1013462
+    },
+    {
+        "name": "FactSet",
+        "symbol": "FDS",
+        "website": "/wiki/Norwalk,_Connecticut",
+        "market_cap": 1013237
+    },
+    {
+        "name": "Sealed Air",
+        "symbol": "SEE",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 1012100
+    },
+    {
+        "name": "PG&E Corporation",
+        "symbol": "PCG",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 1004980
+    },
+    {
+        "name": "Ameren",
+        "symbol": "AEE",
+        "website": "/wiki/St._Louis,_Missouri",
+        "market_cap": 1002910
+    },
+    {
+        "name": "NetApp",
+        "symbol": "NTAP",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 1002047
+    },
+    {
+        "name": "Est\u00e9e Lauder Companies (The)",
+        "symbol": "EL",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 1001250
+    },
+    {
+        "name": "Dish Network",
+        "symbol": "DISH",
+        "website": "/wiki/Meridian,_Colorado",
+        "market_cap": 1001082
+    },
+    {
+        "name": "Waters Corporation",
+        "symbol": "WAT",
+        "website": "/wiki/Milford,_Massachusetts",
+        "market_cap": 1000697
+    },
+    {
+        "name": "Henry Schein",
+        "symbol": "HSIC",
+        "website": "/wiki/Melville,_New_York",
+        "market_cap": 1000228
+    },
+    {
+        "name": "Arch Capital Group",
+        "symbol": "ACGL",
+        "website": "/wiki/Hamilton,_Bermuda",
+        "market_cap": 947484
+    },
+    {
+        "name": "Take-Two Interactive",
+        "symbol": "TTWO",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 946581
+    },
+    {
+        "name": "Pool Corporation",
+        "symbol": "POOL",
+        "website": "/wiki/Covington,_Louisiana",
+        "market_cap": 945841
+    },
+    {
+        "name": "ResMed",
+        "symbol": "RMD",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 943819
+    },
+    {
+        "name": "Wabtec",
+        "symbol": "WAB",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 943452
+    },
+    {
+        "name": "Darden Restaurants",
+        "symbol": "DRI",
+        "website": "/wiki/Orlando,_Florida",
+        "market_cap": 940944
+    },
+    {
+        "name": "Lockheed Martin",
+        "symbol": "LMT",
+        "website": "/wiki/Bethesda,_Maryland",
+        "market_cap": 936468
+    },
+    {
+        "name": "DTE Energy",
+        "symbol": "DTE",
+        "website": "/wiki/Detroit,_Michigan",
+        "market_cap": 936340
+    },
+    {
+        "name": "Dollar Tree",
+        "symbol": "DLTR",
+        "website": "/wiki/Chesapeake,_Virginia",
+        "market_cap": 935703
+    },
+    {
+        "name": "McKesson",
+        "symbol": "MCK",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 927653
+    },
+    {
+        "name": "Capital One",
+        "symbol": "COF",
+        "website": "/wiki/Tysons_Corner,_Virginia",
+        "market_cap": 927628
+    },
+    {
+        "name": "DaVita Inc.",
+        "symbol": "DVA",
+        "website": "/wiki/Denver,_Colorado",
+        "market_cap": 927066
+    },
+    {
+        "name": "PPL Corporation",
+        "symbol": "PPL",
+        "website": "/wiki/Allentown,_Pennsylvania",
+        "market_cap": 922224
+    },
+    {
+        "name": "Lennar",
+        "symbol": "LEN",
+        "website": "/wiki/Miami,_Florida",
+        "market_cap": 920760
+    },
+    {
+        "name": "Essex Property Trust",
+        "symbol": "ESS",
+        "website": "/wiki/San_Mateo,_California",
+        "market_cap": 920522
+    },
+    {
+        "name": "LabCorp",
+        "symbol": "LH",
+        "website": "/wiki/Burlington,_North_Carolina",
+        "market_cap": 920148
+    },
+    {
+        "name": "Tractor Supply",
+        "symbol": "TSCO",
+        "website": "/wiki/Brentwood,_Tennessee",
+        "market_cap": 916365
+    },
+    {
+        "name": "Martin Marietta Materials",
+        "symbol": "MLM",
+        "website": "/wiki/Raleigh,_North_Carolina",
+        "market_cap": 916076
+    },
+    {
+        "name": "Albemarle Corporation",
+        "symbol": "ALB",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 915913
+    },
+    {
+        "name": "AvalonBay Communities",
+        "symbol": "AVB",
+        "website": "/wiki/Arlington,_Virginia",
+        "market_cap": 915912
+    },
+    {
+        "name": "Eastman Chemical Company",
+        "symbol": "EMN",
+        "website": "/wiki/Kingsport,_Tennessee",
+        "market_cap": 915389
+    },
+    {
+        "name": "Invesco",
+        "symbol": "IVZ",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 914208
+    },
+    {
+        "name": "Mid-America Apartment Communities",
+        "symbol": "MAA",
+        "website": "/wiki/Memphis,_Tennessee",
+        "market_cap": 912595
+    },
+    {
+        "name": "Regency Centers",
+        "symbol": "REG",
+        "website": "/wiki/Jacksonville",
+        "market_cap": 910606
+    },
+    {
+        "name": "Costco",
+        "symbol": "COST",
+        "website": "/wiki/Issaquah,_Washington",
+        "market_cap": 909832
+    },
+    {
+        "name": "BorgWarner",
+        "symbol": "BWA",
+        "website": "/wiki/Auburn_Hills,_Michigan",
+        "market_cap": 908255
+    },
+    {
+        "name": "Camden Property Trust",
+        "symbol": "CPT",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 906345
+    },
+    {
+        "name": "NVR, Inc.",
+        "symbol": "NVR",
+        "website": "/wiki/Reston,_Virginia",
+        "market_cap": 906163
+    },
+    {
+        "name": "Equity Residential",
+        "symbol": "EQR",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 906107
+    },
+    {
+        "name": "Copart",
+        "symbol": "CPRT",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 900075
+    },
+    {
+        "name": "Allstate",
+        "symbol": "ALL",
+        "website": "/wiki/Northfield_Township,_Illinois",
+        "market_cap": 899051
+    },
+    {
+        "name": "O'Reilly Auto Parts",
+        "symbol": "ORLY",
+        "website": "/wiki/Springfield,_Missouri",
+        "market_cap": 898173
+    },
+    {
+        "name": "Intuit",
+        "symbol": "INTU",
+        "website": "/wiki/Mountain_View,_California",
+        "market_cap": 896878
+    },
+    {
+        "name": "Chubb Limited",
+        "symbol": "CB",
+        "website": "/wiki/Zurich,_Switzerland",
+        "market_cap": 896159
+    },
+    {
+        "name": "Morgan Stanley",
+        "symbol": "MS",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 895421
+    },
+    {
+        "name": "Match Group",
+        "symbol": "MTCH",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 891103
+    },
+    {
+        "name": "Goldman Sachs",
+        "symbol": "GS",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 886982
+    },
+    {
+        "name": "Boston Scientific",
+        "symbol": "BSX",
+        "website": "/wiki/Marlborough,_Massachusetts",
+        "market_cap": 885725
+    },
+    {
+        "name": "Royal Caribbean Group",
+        "symbol": "RCL",
+        "website": "/wiki/Miami,_Florida",
+        "market_cap": 884887
+    },
+    {
+        "name": "Synopsys",
+        "symbol": "SNPS",
+        "website": "/wiki/Mountain_View,_California",
+        "market_cap": 883241
+    },
+    {
+        "name": "Roper Technologies",
+        "symbol": "ROP",
+        "website": "/wiki/Sarasota,_Florida",
+        "market_cap": 882835
+    },
+    {
+        "name": "D.R. Horton",
+        "symbol": "DHI",
+        "website": "/wiki/Arlington,_Texas",
+        "market_cap": 882184
+    },
+    {
+        "name": "Gilead Sciences",
+        "symbol": "GILD",
+        "website": "/wiki/Foster_City,_California",
+        "market_cap": 882095
+    },
+    {
+        "name": "Incyte",
+        "symbol": "INCY",
+        "website": "/wiki/Wilmington,_Delaware",
+        "market_cap": 879169
+    },
+    {
+        "name": "Kimco Realty",
+        "symbol": "KIM",
+        "website": "/wiki/New_Hyde_Park,_New_York",
+        "market_cap": 879101
+    },
+    {
+        "name": "Old Dominion",
+        "symbol": "ODFL",
+        "website": "/wiki/Thomasville,_North_Carolina",
+        "market_cap": 878927
+    },
+    {
+        "name": "Zebra Technologies",
+        "symbol": "ZBRA",
+        "website": "/wiki/Lincolnshire,_Illinois",
+        "market_cap": 877212
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "symbol": "VRTX",
+        "website": "/wiki/Cambridge,_Massachusetts",
+        "market_cap": 875320
+    },
+    {
+        "name": "Biogen",
+        "symbol": "BIIB",
+        "website": "/wiki/Cambridge,_Massachusetts",
+        "market_cap": 875045
+    },
+    {
+        "name": "Hartford (The)",
+        "symbol": "HIG",
+        "website": "/wiki/Hartford,_Connecticut",
+        "market_cap": 874766
+    },
+    {
+        "name": "AES Corporation",
+        "symbol": "AES",
+        "website": "/wiki/Arlington,_Virginia",
+        "market_cap": 874761
+    },
+    {
+        "name": "Idexx Laboratories",
+        "symbol": "IDXX",
+        "website": "/wiki/Westbrook,_Maine",
+        "market_cap": 874716
+    },
+    {
+        "name": "Regeneron",
+        "symbol": "REGN",
+        "website": "/wiki/Tarrytown,_New_York",
+        "market_cap": 872589
+    },
+    {
+        "name": "AutoZone",
+        "symbol": "AZO",
+        "website": "/wiki/Memphis,_Tennessee",
+        "market_cap": 866787
+    },
+    {
+        "name": "Monster Beverage",
+        "symbol": "MNST",
+        "website": "/wiki/Corona,_California",
+        "market_cap": 865752
+    },
+    {
+        "name": "Trimble Inc.",
+        "symbol": "TRMB",
+        "website": "/wiki/Westminster,_Colorado",
+        "market_cap": 864749
+    },
+    {
+        "name": "Tyler Technologies",
+        "symbol": "TYL",
+        "website": "/wiki/Plano,_Texas",
+        "market_cap": 860731
+    },
+    {
+        "name": "HCA Healthcare",
+        "symbol": "HCA",
+        "website": "/wiki/Nashville",
+        "market_cap": 860730
+    },
+    {
+        "name": "Hologic",
+        "symbol": "HOLX",
+        "website": "/wiki/Marlborough,_Massachusetts",
+        "market_cap": 859737
+    },
+    {
+        "name": "Cisco",
+        "symbol": "CSCO",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 858877
+    },
+    {
+        "name": "Coterra",
+        "symbol": "CTRA",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 858470
+    },
+    {
+        "name": "PTC",
+        "symbol": "PTC",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 857005
+    },
+    {
+        "name": "Mohawk Industries",
+        "symbol": "MHK",
+        "website": "/wiki/Calhoun,_Georgia",
+        "market_cap": 851968
+    },
+    {
+        "name": "Gen Digital",
+        "symbol": "GEN",
+        "website": "/wiki/Tempe,_Arizona",
+        "market_cap": 849399
+    },
+    {
+        "name": "Bio-Techne",
+        "symbol": "TECH",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 842023
+    },
+    {
+        "name": "Johnson Controls",
+        "symbol": "JCI",
+        "website": "/wiki/Cork_(city)",
+        "market_cap": 833444
+    },
+    {
+        "name": "IDEX Corporation",
+        "symbol": "IEX",
+        "website": "/wiki/Lake_Forest,_Illinois",
+        "market_cap": 832101
+    },
+    {
+        "name": "Freeport-McMoRan",
+        "symbol": "FCX",
+        "website": "/wiki/Phoenix,_Arizona",
+        "market_cap": 831259
+    },
+    {
+        "name": "Citigroup",
+        "symbol": "C",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 831001
+    },
+    {
+        "name": "Starbucks",
+        "symbol": "SBUX",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 829224
+    },
+    {
+        "name": "Microchip Technology",
+        "symbol": "MCHP",
+        "website": "/wiki/Chandler,_Arizona",
+        "market_cap": 827054
+    },
+    {
+        "name": "Edison International",
+        "symbol": "EIX",
+        "website": "/wiki/Rosemead,_California",
+        "market_cap": 827052
+    },
+    {
+        "name": "Waste Management",
+        "symbol": "WM",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 823768
+    },
+    {
+        "name": "PulteGroup",
+        "symbol": "PHM",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 822416
+    },
+    {
+        "name": "EOG Resources",
+        "symbol": "EOG",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 821189
+    },
+    {
+        "name": "Amphenol",
+        "symbol": "APH",
+        "website": "/wiki/Wallingford,_Connecticut",
+        "market_cap": 820313
+    },
+    {
+        "name": "Ameriprise Financial",
+        "symbol": "AMP",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 820027
+    },
+    {
+        "name": "Dentsply Sirona",
+        "symbol": "XRAY",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 818479
+    },
+    {
+        "name": "Fastenal",
+        "symbol": "FAST",
+        "website": "/wiki/Winona,_Minnesota",
+        "market_cap": 815556
+    },
+    {
+        "name": "Carnival",
+        "symbol": "CCL",
+        "website": "/wiki/Miami,_Florida",
+        "market_cap": 815097
+    },
+    {
+        "name": "Fair Isaac",
+        "symbol": "FICO",
+        "website": "/wiki/Bozeman,_Montana",
+        "market_cap": 814547
+    },
+    {
+        "name": "Newell Brands",
+        "symbol": "NWL",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 814453
+    },
+    {
+        "name": "Paramount Global",
+        "symbol": "PARA",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 813828
+    },
+    {
+        "name": "Cadence Design Systems",
+        "symbol": "CDNS",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 813672
+    },
+    {
+        "name": "CMS Energy",
+        "symbol": "CMS",
+        "website": "/wiki/Jackson,_Michigan",
+        "market_cap": 811156
+    },
+    {
+        "name": "Qualcomm",
+        "symbol": "QCOM",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 804328
+    },
+    {
+        "name": "Fiserv",
+        "symbol": "FISV",
+        "website": "/wiki/Brookfield,_Wisconsin",
+        "market_cap": 798354
+    },
+    {
+        "name": "Occidental Petroleum",
+        "symbol": "OXY",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 797468
+    },
+    {
+        "name": "Adobe Inc.",
+        "symbol": "ADBE",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 796343
+    },
+    {
+        "name": "MGM Resorts",
+        "symbol": "MGM",
+        "website": "/wiki/Paradise,_Nevada",
+        "market_cap": 789570
+    },
+    {
+        "name": "Microsoft",
+        "symbol": "MSFT",
+        "website": "/wiki/Redmond,_Washington",
+        "market_cap": 789019
+    },
+    {
+        "name": "Public Service Enterprise Group",
+        "symbol": "PEG",
+        "website": "/wiki/Newark,_New_Jersey",
+        "market_cap": 788784
+    },
+    {
+        "name": "WEC Energy Group",
+        "symbol": "WEC",
+        "website": "/wiki/Milwaukee,_Wisconsin",
+        "market_cap": 783325
+    },
+    {
+        "name": "Jack Henry & Associates",
+        "symbol": "JKHY",
+        "website": "/wiki/Monett,_Missouri",
+        "market_cap": 779152
+    },
+    {
+        "name": "Honeywell",
+        "symbol": "HON",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 773840
+    },
+    {
+        "name": "Autodesk",
+        "symbol": "ADSK",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 769397
+    },
+    {
+        "name": "Welltower",
+        "symbol": "WELL",
+        "website": "/wiki/Toledo,_Ohio",
+        "market_cap": 766704
+    },
+    {
+        "name": "Alaska Air Group",
+        "symbol": "ALK",
+        "website": "/wiki/SeaTac,_Washington",
+        "market_cap": 766421
+    },
+    {
+        "name": "Healthpeak",
+        "symbol": "PEAK",
+        "website": "/wiki/Long_Beach,_California",
+        "market_cap": 765880
+    },
+    {
+        "name": "Pinnacle West",
+        "symbol": "PNW",
+        "website": "/wiki/Phoenix,_Arizona",
+        "market_cap": 764622
+    },
+    {
+        "name": "Best Buy",
+        "symbol": "BBY",
+        "website": "/wiki/Richfield,_Minnesota",
+        "market_cap": 764478
+    },
+    {
+        "name": "Altria",
+        "symbol": "MO",
+        "website": "/wiki/Richmond,_Virginia",
+        "market_cap": 764180
+    },
+    {
+        "name": "Citizens Financial Group",
+        "symbol": "CFG",
+        "website": "/wiki/Providence,_Rhode_Island",
+        "market_cap": 759944
+    },
+    {
+        "name": "NextEra Energy",
+        "symbol": "NEE",
+        "website": "/wiki/Juno_Beach,_Florida",
+        "market_cap": 753308
+    },
+    {
+        "name": "Gartner",
+        "symbol": "IT",
+        "website": "/wiki/Stamford,_Connecticut",
+        "market_cap": 749251
+    },
+    {
+        "name": "Expeditors International",
+        "symbol": "EXPD",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 746515
+    },
+    {
+        "name": "Ross Stores",
+        "symbol": "ROST",
+        "website": "/wiki/Dublin,_California",
+        "market_cap": 745732
+    },
+    {
+        "name": "Ventas",
+        "symbol": "VTR",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 740260
+    },
+    {
+        "name": "AT&T",
+        "symbol": "T",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 732717
+    },
+    {
+        "name": "Verizon",
+        "symbol": "VZ",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 732712
+    },
+    {
+        "name": "Atmos Energy",
+        "symbol": "ATO",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 731802
+    },
+    {
+        "name": "UnitedHealth Group",
+        "symbol": "UNH",
+        "website": "/wiki/Minnetonka,_Minnesota",
+        "market_cap": 731766
+    },
+    {
+        "name": "J.B. Hunt",
+        "symbol": "JBHT",
+        "website": "/wiki/Lowell,_Arkansas",
+        "market_cap": 728535
+    },
+    {
+        "name": "Realty Income",
+        "symbol": "O",
+        "website": "/wiki/San_Diego,_California",
+        "market_cap": 726728
+    },
+    {
+        "name": "Paychex",
+        "symbol": "PAYX",
+        "website": "/wiki/Penfield,_New_York",
+        "market_cap": 723531
+    },
+    {
+        "name": "Cintas",
+        "symbol": "CTAS",
+        "website": "/wiki/Mason,_Ohio",
+        "market_cap": 723254
+    },
+    {
+        "name": "Micron Technology",
+        "symbol": "MU",
+        "website": "/wiki/Boise,_Idaho",
+        "market_cap": 723125
+    },
+    {
+        "name": "Cardinal Health",
+        "symbol": "CAH",
+        "website": "/wiki/Dublin,_Ohio",
+        "market_cap": 721371
+    },
+    {
+        "name": "Raymond James",
+        "symbol": "RJF",
+        "website": "/wiki/St._Petersburg,_Florida",
+        "market_cap": 720005
+    },
+    {
+        "name": "Activision Blizzard",
+        "symbol": "ATVI",
+        "website": "/wiki/Santa_Monica,_California",
+        "market_cap": 718877
+    },
+    {
+        "name": "Dominion Energy",
+        "symbol": "D",
+        "website": "/wiki/Richmond,_Virginia",
+        "market_cap": 715957
+    },
+    {
+        "name": "PNC Financial Services",
+        "symbol": "PNC",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 713676
+    },
+    {
+        "name": "Electronic Arts",
+        "symbol": "EA",
+        "website": "/wiki/Redwood_City,_California",
+        "market_cap": 712515
+    },
+    {
+        "name": "CooperCompanies",
+        "symbol": "COO",
+        "website": "/wiki/San_Ramon,_California",
+        "market_cap": 711404
+    },
+    {
+        "name": "Lam Research",
+        "symbol": "LRCX",
+        "website": "/wiki/Fremont,_California",
+        "market_cap": 707549
+    },
+    {
+        "name": "Norfolk Southern Railway",
+        "symbol": "NSC",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 702165
+    },
+    {
+        "name": "Bath & Body Works, Inc.",
+        "symbol": "BBWI",
+        "website": "/wiki/Columbus,_Ohio",
+        "market_cap": 701985
+    },
+    {
+        "name": "Home Depot (The)",
+        "symbol": "HD",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 354950
+    },
+    {
+        "name": "Arthur J. Gallagher & Co.",
+        "symbol": "AJG",
+        "website": "/wiki/Rolling_Meadows,_Illinois",
+        "market_cap": 354190
+    },
+    {
+        "name": "Universal Health Services",
+        "symbol": "UHS",
+        "website": "/wiki/King_of_Prussia,_Pennsylvania",
+        "market_cap": 352915
+    },
+    {
+        "name": "Alliant Energy",
+        "symbol": "LNT",
+        "website": "/wiki/Madison,_Wisconsin",
+        "market_cap": 352541
+    },
+    {
+        "name": "Globe Life",
+        "symbol": "GL",
+        "website": "/wiki/McKinney,_Texas",
+        "market_cap": 320335
+    },
+    {
+        "name": "Apple Inc.",
+        "symbol": "AAPL",
+        "website": "/wiki/Cupertino,_California",
+        "market_cap": 320193
+    },
+    {
+        "name": "Nike, Inc.",
+        "symbol": "NKE",
+        "website": "/wiki/Washington_County,_Oregon",
+        "market_cap": 320187
+    },
+    {
+        "name": "KLA Corporation",
+        "symbol": "KLAC",
+        "website": "/wiki/Milpitas,_California",
+        "market_cap": 319201
+    },
+    {
+        "name": "Amgen",
+        "symbol": "AMGN",
+        "website": "/wiki/Thousand_Oaks,_California",
+        "market_cap": 318154
+    },
+    {
+        "name": "Charles Schwab Corporation",
+        "symbol": "SCHW",
+        "website": "/wiki/Westlake,_Texas",
+        "market_cap": 316709
+    },
+    {
+        "name": "Aon",
+        "symbol": "AON",
+        "website": "/wiki/London,_UK",
+        "market_cap": 315293
+    },
+    {
+        "name": "Robert Half",
+        "symbol": "RHI",
+        "website": "/wiki/Menlo_Park,_California",
+        "market_cap": 315213
+    },
+    {
+        "name": "John Deere",
+        "symbol": "DE",
+        "website": "/wiki/Moline,_Illinois",
+        "market_cap": 315189
+    },
+    {
+        "name": "Church & Dwight",
+        "symbol": "CHD",
+        "website": "/wiki/Ewing,_New_Jersey",
+        "market_cap": 313927
+    },
+    {
+        "name": "Danaher Corporation",
+        "symbol": "DHR",
+        "website": "/wiki/Washington,_D.C.",
+        "market_cap": 313616
+    },
+    {
+        "name": "Stryker Corporation",
+        "symbol": "SYK",
+        "website": "/wiki/Kalamazoo,_Michigan",
+        "market_cap": 310764
+    },
+    {
+        "name": "Merck & Co.",
+        "symbol": "MRK",
+        "website": "/wiki/Kenilworth,_New_Jersey",
+        "market_cap": 310158
+    },
+    {
+        "name": "CSX",
+        "symbol": "CSX",
+        "website": "/wiki/Jacksonville,_Florida",
+        "market_cap": 277948
+    },
+    {
+        "name": "W. W. Grainger",
+        "symbol": "GWW",
+        "website": "/wiki/Lake_Forest,_Illinois",
+        "market_cap": 277135
+    },
+    {
+        "name": "Textron",
+        "symbol": "TXT",
+        "website": "/wiki/Providence,_Rhode_Island",
+        "market_cap": 217346
+    },
+    {
+        "name": "L3Harris",
+        "symbol": "LHX",
+        "website": "/wiki/Melbourne,_Florida",
+        "market_cap": 202058
+    },
+    {
+        "name": "Johnson & Johnson",
+        "symbol": "JNJ",
+        "website": "/wiki/New_Brunswick,_New_Jersey",
+        "market_cap": 200406
+    },
+    {
+        "name": "Zions Bancorporation",
+        "symbol": "ZION",
+        "website": "/wiki/Salt_Lake_City,_Utah",
+        "market_cap": 109380
+    },
+    {
+        "name": "TJX Companies",
+        "symbol": "TJX",
+        "website": "/wiki/Framingham,_Massachusetts",
+        "market_cap": 109198
+    },
+    {
+        "name": "Williams Companies",
+        "symbol": "WMB",
+        "website": "/wiki/Tulsa,_Oklahoma",
+        "market_cap": 107263
+    },
+    {
+        "name": "Whirlpool Corporation",
+        "symbol": "WHR",
+        "website": "/wiki/Benton_Harbor,_Michigan",
+        "market_cap": 106640
+    },
+    {
+        "name": "Weyerhaeuser",
+        "symbol": "WY",
+        "website": "/wiki/Seattle,_Washington",
+        "market_cap": 106535
+    },
+    {
+        "name": "Western Digital",
+        "symbol": "WDC",
+        "website": "/wiki/San_Jose,_California",
+        "market_cap": 106040
+    },
+    {
+        "name": "West Pharmaceutical Services",
+        "symbol": "WST",
+        "website": "/wiki/Exton,_Pennsylvania",
+        "market_cap": 105770
+    },
+    {
+        "name": "Walmart",
+        "symbol": "WMT",
+        "website": "/wiki/Bentonville,_Arkansas",
+        "market_cap": 104169
+    },
+    {
+        "name": "VF Corporation",
+        "symbol": "VFC",
+        "website": "/wiki/Denver,_Colorado",
+        "market_cap": 103379
+    },
+    {
+        "name": "Raytheon Technologies",
+        "symbol": "RTX",
+        "website": "/wiki/Waltham,_Massachusetts",
+        "market_cap": 101829
+    },
+    {
+        "name": "Marathon Oil",
+        "symbol": "MRO",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 101778
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "symbol": "UNP",
+        "website": "/wiki/Omaha,_Nebraska",
+        "market_cap": 100885
+    },
+    {
+        "name": "United Airlines Holdings",
+        "symbol": "UAL",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 100517
+    },
+    {
+        "name": "Tyson Foods",
+        "symbol": "TSN",
+        "website": "/wiki/Springdale,_Arkansas",
+        "market_cap": 100493
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "symbol": "TMO",
+        "website": "/wiki/Waltham,_Massachusetts",
+        "market_cap": 97745
+    },
+    {
+        "name": "Texas Instruments",
+        "symbol": "TXN",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 97476
+    },
+    {
+        "name": "Teradyne",
+        "symbol": "TER",
+        "website": "/wiki/North_Reading,_Massachusetts",
+        "market_cap": 97210
+    },
+    {
+        "name": "Teleflex",
+        "symbol": "TFX",
+        "website": "/wiki/Wayne,_Pennsylvania",
+        "market_cap": 96943
+    },
+    {
+        "name": "Sysco",
+        "symbol": "SYY",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 96021
+    },
+    {
+        "name": "State Street Corporation",
+        "symbol": "STT",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 93751
+    },
+    {
+        "name": "Stanley Black & Decker",
+        "symbol": "SWK",
+        "website": "/wiki/New_Britain,_Connecticut",
+        "market_cap": 93556
+    },
+    {
+        "name": "Chevron Corporation",
+        "symbol": "CVX",
+        "website": "/wiki/San_Ramon,_California",
+        "market_cap": 93410
+    },
+    {
+        "name": "Southwest Airlines",
+        "symbol": "LUV",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 92380
+    },
+    {
+        "name": "Truist",
+        "symbol": "TFC",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 92230
+    },
+    {
+        "name": "Southern Company",
+        "symbol": "SO",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 92122
+    },
+    {
+        "name": "KeyCorp",
+        "symbol": "KEY",
+        "website": "/wiki/Cleveland,_Ohio",
+        "market_cap": 91576
+    },
+    {
+        "name": "Snap-on",
+        "symbol": "SNA",
+        "website": "/wiki/Kenosha,_Wisconsin",
+        "market_cap": 91440
+    },
+    {
+        "name": "J.M. Smucker Company (The)",
+        "symbol": "SJM",
+        "website": "/wiki/Orrville,_Ohio",
+        "market_cap": 91419
+    },
+    {
+        "name": "A. O. Smith",
+        "symbol": "AOS",
+        "website": "/wiki/Milwaukee,_Wisconsin",
+        "market_cap": 91142
+    },
+    {
+        "name": "Sherwin-Williams",
+        "symbol": "SHW",
+        "website": "/wiki/Cleveland,_Ohio",
+        "market_cap": 89800
+    },
+    {
+        "name": "Schlumberger",
+        "symbol": "SLB",
+        "website": "/wiki/Cura%C3%A7ao",
+        "market_cap": 87347
+    },
+    {
+        "name": "Travelers Companies (The)",
+        "symbol": "TRV",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 86312
+    },
+    {
+        "name": "Rollins, Inc.",
+        "symbol": "ROL",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 84839
+    },
+    {
+        "name": "Progressive Corporation",
+        "symbol": "PGR",
+        "website": "/wiki/Mayfield_Village,_Ohio",
+        "market_cap": 80661
+    },
+    {
+        "name": "Procter & Gamble",
+        "symbol": "PG",
+        "website": "/wiki/Cincinnati,_Ohio",
+        "market_cap": 80424
+    },
+    {
+        "name": "PPG Industries",
+        "symbol": "PPG",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 79879
+    },
+    {
+        "name": "Brown & Brown",
+        "symbol": "BRO",
+        "website": "/wiki/Daytona_Beach,_Florida",
+        "market_cap": 79282
+    },
+    {
+        "name": "Pfizer",
+        "symbol": "PFE",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 78003
+    },
+    {
+        "name": "PepsiCo",
+        "symbol": "PEP",
+        "website": "/wiki/Purchase,_New_York",
+        "market_cap": 77476
+    },
+    {
+        "name": "Pentair",
+        "symbol": "PNR",
+        "website": "/wiki/Worsley",
+        "market_cap": 77360
+    },
+    {
+        "name": "Parker Hannifin",
+        "symbol": "PH",
+        "website": "/wiki/Cleveland,_Ohio",
+        "market_cap": 76334
+    },
+    {
+        "name": "Packaging Corporation of America",
+        "symbol": "PKG",
+        "website": "/wiki/Lake_Forest,_Illinois",
+        "market_cap": 75677
+    },
+    {
+        "name": "Paccar",
+        "symbol": "PCAR",
+        "website": "/wiki/Bellevue,_Washington",
+        "market_cap": 75362
+    },
+    {
+        "name": "UDR, Inc.",
+        "symbol": "UDR",
+        "website": "/wiki/Highlands_Ranch,_Colorado",
+        "market_cap": 74208
+    },
+    {
+        "name": "Nucor",
+        "symbol": "NUE",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 73309
+    },
+    {
+        "name": "Northern Trust",
+        "symbol": "NTRS",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 73124
+    },
+    {
+        "name": "Wells Fargo",
+        "symbol": "WFC",
+        "website": "/wiki/San_Francisco,_California",
+        "market_cap": 72971
+    },
+    {
+        "name": "Xcel Energy",
+        "symbol": "XEL",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 72903
+    },
+    {
+        "name": "Eversource",
+        "symbol": "ES",
+        "website": "/wiki/Hartford,_Connecticut",
+        "market_cap": 72741
+    },
+    {
+        "name": "Nordson Corporation",
+        "symbol": "NDSN",
+        "website": "/wiki/Westlake,_Ohio",
+        "market_cap": 72331
+    },
+    {
+        "name": "Bank of America",
+        "symbol": "BAC",
+        "website": "/wiki/Charlotte,_North_Carolina",
+        "market_cap": 70858
+    },
+    {
+        "name": "Motorola Solutions",
+        "symbol": "MSI",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 68505
+    },
+    {
+        "name": "3M",
+        "symbol": "MMM",
+        "website": "/wiki/Saint_Paul,_Minnesota",
+        "market_cap": 66740
+    },
+    {
+        "name": "Entergy",
+        "symbol": "ETR",
+        "website": "/wiki/New_Orleans,_Louisiana",
+        "market_cap": 65984
+    },
+    {
+        "name": "CVS Health",
+        "symbol": "CVS",
+        "website": "/wiki/Woonsocket,_Rhode_Island",
+        "market_cap": 64803
+    },
+    {
+        "name": "S&P Global",
+        "symbol": "SPGI",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 64040
+    },
+    {
+        "name": "McDonald's",
+        "symbol": "MCD",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 63908
+    },
+    {
+        "name": "McCormick & Company",
+        "symbol": "MKC",
+        "website": "/wiki/Hunt_Valley,_Maryland",
+        "market_cap": 63754
+    },
+    {
+        "name": "Masco",
+        "symbol": "MAS",
+        "website": "/wiki/Livonia,_Michigan",
+        "market_cap": 62996
+    },
+    {
+        "name": "Marsh McLennan",
+        "symbol": "MMC",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 62709
+    },
+    {
+        "name": "Lowe's",
+        "symbol": "LOW",
+        "website": "/wiki/Mooresville,_North_Carolina",
+        "market_cap": 60667
+    },
+    {
+        "name": "Loews Corporation",
+        "symbol": "L",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 60086
+    },
+    {
+        "name": "Lincoln Financial",
+        "symbol": "LNC",
+        "website": "/wiki/Radnor,_Pennsylvania",
+        "market_cap": 59558
+    },
+    {
+        "name": "Eli Lilly and Company",
+        "symbol": "LLY",
+        "website": "/wiki/Indianapolis,_Indiana",
+        "market_cap": 59478
+    },
+    {
+        "name": "Kroger",
+        "symbol": "KR",
+        "website": "/wiki/Cincinnati,_Ohio",
+        "market_cap": 56873
+    },
+    {
+        "name": "Kimberly-Clark",
+        "symbol": "KMB",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 55785
+    },
+    {
+        "name": "Kellogg's",
+        "symbol": "K",
+        "website": "/wiki/Battle_Creek,_Michigan",
+        "market_cap": 55067
+    },
+    {
+        "name": "Jacobs Solutions",
+        "symbol": "J",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 52988
+    },
+    {
+        "name": "Interpublic Group of Companies (The)",
+        "symbol": "IPG",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 51644
+    },
+    {
+        "name": "International Paper",
+        "symbol": "IP",
+        "website": "/wiki/Memphis,_Tennessee",
+        "market_cap": 51434
+    },
+    {
+        "name": "International Flavors & Fragrances",
+        "symbol": "IFF",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 51253
+    },
+    {
+        "name": "IBM",
+        "symbol": "IBM",
+        "website": "/wiki/Armonk,_New_York",
+        "market_cap": 51143
+    },
+    {
+        "name": "Intel",
+        "symbol": "INTC",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 50863
+    },
+    {
+        "name": "Illinois Tool Works",
+        "symbol": "ITW",
+        "website": "/wiki/Glenview,_Cook_County,_Illinois",
+        "market_cap": 49826
+    },
+    {
+        "name": "Huntington Bancshares",
+        "symbol": "HBAN",
+        "website": "/wiki/Columbus,_Ohio",
+        "market_cap": 49196
+    },
+    {
+        "name": "Humana",
+        "symbol": "HUM",
+        "website": "/wiki/Louisville,_Kentucky",
+        "market_cap": 49071
+    },
+    {
+        "name": "Hormel Foods",
+        "symbol": "HRL",
+        "website": "/wiki/Austin,_Minnesota",
+        "market_cap": 48465
+    },
+    {
+        "name": "HP Inc.",
+        "symbol": "HPQ",
+        "website": "/wiki/Palo_Alto,_California",
+        "market_cap": 47217
+    },
+    {
+        "name": "Hershey's",
+        "symbol": "HSY",
+        "website": "/wiki/Hershey,_Pennsylvania",
+        "market_cap": 47111
+    },
+    {
+        "name": "Hasbro",
+        "symbol": "HAS",
+        "website": "/wiki/Pawtucket,_Rhode_Island",
+        "market_cap": 46080
+    },
+    {
+        "name": "Halliburton",
+        "symbol": "HAL",
+        "website": "/wiki/Houston,_Texas",
+        "market_cap": 45012
+    },
+    {
+        "name": "Genuine Parts Company",
+        "symbol": "GPC",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 40987
+    },
+    {
+        "name": "General Mills",
+        "symbol": "GIS",
+        "website": "/wiki/Golden_Valley,_Minnesota",
+        "market_cap": 40704
+    },
+    {
+        "name": "General Electric",
+        "symbol": "GE",
+        "website": "/wiki/Boston,_Massachusetts",
+        "market_cap": 40545
+    },
+    {
+        "name": "General Dynamics",
+        "symbol": "GD",
+        "website": "/wiki/Falls_Church,_Virginia",
+        "market_cap": 40533
+    },
+    {
+        "name": "Franklin Templeton",
+        "symbol": "BEN",
+        "website": "/wiki/San_Mateo,_California",
+        "market_cap": 38777
+    },
+    {
+        "name": "Ford Motor Company",
+        "symbol": "F",
+        "website": "/wiki/Dearborn,_Michigan",
+        "market_cap": 37996
+    },
+    {
+        "name": "FMC Corporation",
+        "symbol": "FMC",
+        "website": "/wiki/Philadelphia,_Pennsylvania",
+        "market_cap": 37785
+    },
+    {
+        "name": "M&T Bank",
+        "symbol": "MTB",
+        "website": "/wiki/Buffalo,_New_York",
+        "market_cap": 36270
+    },
+    {
+        "name": "U.S. Bank",
+        "symbol": "USB",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 36104
+    },
+    {
+        "name": "Fifth Third Bank",
+        "symbol": "FITB",
+        "website": "/wiki/Cincinnati,_Ohio",
+        "market_cap": 35527
+    },
+    {
+        "name": "Federal Realty",
+        "symbol": "FRT",
+        "website": "/wiki/Rockville,_Maryland",
+        "market_cap": 34903
+    },
+    {
+        "name": "ExxonMobil",
+        "symbol": "XOM",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 34088
+    },
+    {
+        "name": "EQT",
+        "symbol": "EQT",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 33213
+    },
+    {
+        "name": "Equifax",
+        "symbol": "EFX",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 33185
+    },
+    {
+        "name": "Emerson Electric",
+        "symbol": "EMR",
+        "website": "/wiki/Ferguson,_Missouri",
+        "market_cap": 32604
+    },
+    {
+        "name": "PerkinElmer",
+        "symbol": "PKI",
+        "website": "/wiki/Waltham,_Massachusetts",
+        "market_cap": 31791
+    },
+    {
+        "name": "Ecolab",
+        "symbol": "ECL",
+        "website": "/wiki/Saint_Paul,_Minnesota",
+        "market_cap": 31462
+    },
+    {
+        "name": "Omnicom Group",
+        "symbol": "OMC",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 29989
+    },
+    {
+        "name": "Dover Corporation",
+        "symbol": "DOV",
+        "website": "/wiki/Downers_Grove,_Illinois",
+        "market_cap": 29905
+    },
+    {
+        "name": "Dollar General",
+        "symbol": "DG",
+        "website": "/wiki/Goodlettsville,_Tennessee",
+        "market_cap": 29534
+    },
+    {
+        "name": "Comerica",
+        "symbol": "CMA",
+        "website": "/wiki/Dallas,_Texas",
+        "market_cap": 28412
+    },
+    {
+        "name": "Delta Air Lines",
+        "symbol": "DAL",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 27904
+    },
+    {
+        "name": "Target Corporation",
+        "symbol": "TGT",
+        "website": "/wiki/Minneapolis,_Minnesota",
+        "market_cap": 27419
+    },
+    {
+        "name": "Cummins",
+        "symbol": "CMI",
+        "website": "/wiki/Columbus,_Indiana",
+        "market_cap": 26172
+    },
+    {
+        "name": "Corning Inc.",
+        "symbol": "GLW",
+        "website": "/wiki/Corning_(city),_New_York",
+        "market_cap": 24741
+    },
+    {
+        "name": "Molson Coors Beverage Company",
+        "symbol": "TAP",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 24545
+    },
+    {
+        "name": "Conagra Brands",
+        "symbol": "CAG",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 23217
+    },
+    {
+        "name": "Colgate-Palmolive",
+        "symbol": "CL",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 21665
+    },
+    {
+        "name": "Coca-Cola Company (The)",
+        "symbol": "KO",
+        "website": "/wiki/Atlanta,_Georgia",
+        "market_cap": 21344
+    },
+    {
+        "name": "Clorox",
+        "symbol": "CLX",
+        "website": "/wiki/Oakland,_California",
+        "market_cap": 21076
+    },
+    {
+        "name": "Cincinnati Financial",
+        "symbol": "CINF",
+        "website": "/wiki/Fairfield,_Ohio",
+        "market_cap": 20286
+    },
+    {
+        "name": "JPMorgan Chase",
+        "symbol": "JPM",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 19617
+    },
+    {
+        "name": "Caterpillar Inc.",
+        "symbol": "CAT",
+        "website": "/wiki/Irving,_Texas",
+        "market_cap": 18230
+    },
+    {
+        "name": "Constellation Brands",
+        "symbol": "STZ",
+        "website": "/wiki/Victor,_New_York",
+        "market_cap": 16918
+    },
+    {
+        "name": "Campbell Soup Company",
+        "symbol": "CPB",
+        "website": "/wiki/Camden,_New_Jersey",
+        "market_cap": 16732
+    },
+    {
+        "name": "Brown\u2013Forman",
+        "symbol": "BF.B",
+        "website": "/wiki/Louisville,_Kentucky",
+        "market_cap": 14693
+    },
+    {
+        "name": "Bristol Myers Squibb",
+        "symbol": "BMY",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 14272
+    },
+    {
+        "name": "Boeing",
+        "symbol": "BA",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 12927
+    },
+    {
+        "name": "Bio-Rad",
+        "symbol": "BIO",
+        "website": "/wiki/Hercules,_California",
+        "market_cap": 12208
+    },
+    {
+        "name": "Berkley",
+        "symbol": "WRB",
+        "website": "/wiki/Greenwich,_Connecticut",
+        "market_cap": 11544
+    },
+    {
+        "name": "Becton Dickinson",
+        "symbol": "BDX",
+        "website": "/wiki/Franklin_Lakes,_New_Jersey",
+        "market_cap": 10795
+    },
+    {
+        "name": "Baxter International",
+        "symbol": "BAX",
+        "website": "/wiki/Deerfield,_Illinois",
+        "market_cap": 10456
+    },
+    {
+        "name": "Ball Corporation",
+        "symbol": "BALL",
+        "website": "/wiki/Broomfield,_Colorado",
+        "market_cap": 9389
+    },
+    {
+        "name": "Avery Dennison",
+        "symbol": "AVY",
+        "website": "/wiki/Glendale,_California",
+        "market_cap": 8818
+    },
+    {
+        "name": "ADP",
+        "symbol": "ADP",
+        "website": "/wiki/Roseland,_New_Jersey",
+        "market_cap": 8670
+    },
+    {
+        "name": "ADM",
+        "symbol": "ADM",
+        "website": "/wiki/Chicago,_Illinois",
+        "market_cap": 7084
+    },
+    {
+        "name": "Applied Materials",
+        "symbol": "AMAT",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 6951
+    },
+    {
+        "name": "Analog Devices",
+        "symbol": "ADI",
+        "website": "/wiki/Wilmington,_Massachusetts",
+        "market_cap": 6281
+    },
+    {
+        "name": "American Airlines Group",
+        "symbol": "AAL",
+        "website": "/wiki/Fort_Worth,_Texas",
+        "market_cap": 6201
+    },
+    {
+        "name": "American International Group",
+        "symbol": "AIG",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 5272
+    },
+    {
+        "name": "Aflac",
+        "symbol": "AFL",
+        "website": "/wiki/Columbus,_Georgia",
+        "market_cap": 4977
+    },
+    {
+        "name": "American Express",
+        "symbol": "AXP",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 4962
+    },
+    {
+        "name": "American Electric Power",
+        "symbol": "AEP",
+        "website": "/wiki/Columbus,_Ohio",
+        "market_cap": 4904
+    },
+    {
+        "name": "Hess Corporation",
+        "symbol": "HES",
+        "website": "/wiki/New_York_City,_New_York",
+        "market_cap": 4447
+    },
+    {
+        "name": "Howmet Aerospace",
+        "symbol": "HWM",
+        "website": "/wiki/Pittsburgh,_Pennsylvania",
+        "market_cap": 4281
+    },
+    {
+        "name": "Skyworks Solutions",
+        "symbol": "SWKS",
+        "website": "/wiki/Irvine,_California",
+        "market_cap": 4127
+    },
+    {
+        "name": "Air Products and Chemicals",
+        "symbol": "APD",
+        "website": "/wiki/Allentown,_Pennsylvania",
+        "market_cap": 2969
+    },
+    {
+        "name": "AMD",
+        "symbol": "AMD",
+        "website": "/wiki/Santa_Clara,_California",
+        "market_cap": 2488
+    },
+    {
+        "name": "Abbott",
+        "symbol": "ABT",
+        "website": "/wiki/North_Chicago,_Illinois",
+        "market_cap": 1800
+    }
+]
+ 
